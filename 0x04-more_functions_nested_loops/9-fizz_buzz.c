@@ -22,7 +22,8 @@ int main(void)
 	{
 	printf("Fizz");
 	}
-	else if (x % 5 == 0) {
+	else if (x % 5 == 0)
+	{
 	printf("Buzz");
 	}
 	else
